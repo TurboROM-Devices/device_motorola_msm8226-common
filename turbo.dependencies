@@ -4,5 +4,11 @@
     "target_path": "kernel/motorola/msm8226",
     "remote": "cm",
     "branch": "cm-13.0"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "remote": "github",
+    "branch": "cm-13.0"
   }
 ]
