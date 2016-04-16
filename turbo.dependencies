@@ -1,8 +1,8 @@
 [
   {
-    "repository": "android_kernel_motorola_msm8226",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "remote": "cm",
+    "remote": "github",
     "branch": "cm-13.0"
   },
   {
