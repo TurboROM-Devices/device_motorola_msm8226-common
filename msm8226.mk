@@ -50,8 +50,8 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 113
-TARGET_SCREEN_WIDTH := 423
+TARGET_SCREEN_HEIGHT := 720
+TARGET_SCREEN_WIDTH := 1280
 
 $(call inherit-product, frameworks/native/build/phone-xhdpi-1024-dalvik-heap.mk)
 
